@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Meta Minds 2k26** · Team ID `VTU-QFF-HC-0052` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Meta Minds 2k26)
+[⬆ Back to Top](#meta-minds-2k26)
 
 </div>
